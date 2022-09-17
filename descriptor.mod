@@ -1,0 +1,15 @@
+version="1.12"
+tags={
+	"Alternative History"
+	"Map"
+	"Military"
+	"National Focuses"
+	"Technologies"
+	"Utilities"
+	"Gameplay"
+	"Ideologies"
+	"Events"
+	"Balance"
+}
+name="Plutonic"
+supported_version="1.11.13"
